@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maco-eng
-- 👀 I’m interested in .web development and machine language..
-- 🌱 I’m currently learning .phyton.
-- 💞️ I’m looking to collaborate on web development project...
+- 👀 I’m into Data science and machine language.
+
+- 💞️ I want to collaborate on a Data science and Machine Learning  project...
 - 📫 How to reach me Simeongbaglo03@gmail.com...
 
 <!---
